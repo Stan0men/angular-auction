@@ -22,7 +22,7 @@
     "jquery": "^2.2.2"
   },
   "devDependencies": {
-    "live-server": "0.8.2",
+    "live-server": "1.2.2",
     "typescript": "~2.0.0"
   }
 }
